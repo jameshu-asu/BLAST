@@ -11,7 +11,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The purpose of this project was to develop a BLASTN workflow to map wastwater viral reads against reference genomes. 
+The purpose of this project was to develop a BLASTN workflow to map wastwater viral reads against reference genomes.
+This workflow was used to identify human adenovirus reads in wastewater samples. 
 
 <!-- GETTING STARTED -->
 ## Getting Started
