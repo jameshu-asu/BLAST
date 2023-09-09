@@ -16,13 +16,13 @@ The purpose of this project was to develop a BLASTN workflow to map wastwater vi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Scripts are compatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
+Scripts are compatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.4.2+, BLAST 2.14.
 
 ### Prerequisites
 
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
-* [![iVar][iVar]][iVar-url]
+* [![NumPy][NumPy]][NumPy-url]
 
 
 ### Installation
@@ -36,7 +36,11 @@ Scripts are compatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
   ```
 
   ```sh
-  conda install ivar
+  conda install numpy
+  ```
+
+  ```sh
+  conda install -c bioconda blast
   ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -53,3 +57,5 @@ Scripts are compatable with Python 3.9.14+, Pandas 2.0+, iVar 1.4.2+ .
 [Python-url]: https://www.python.org/
 [iVar]: https://img.shields.io/badge/iVar-1.4.2-red
 [iVar-url]: https://andersen-lab.github.io/ivar/html/index.html
+[BLAST]: https://img.shields.io/badge/BLAST-2.14-green
+[BLAST-url]: https://www.ncbi.nlm.nih.gov/books/NBK279690/
