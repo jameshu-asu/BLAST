@@ -23,6 +23,7 @@ Scripts are compatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.4.2+, BLAST 2.1
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
 * [![NumPy][NumPy]][NumPy-url]
+* [![BLAST][BLAST][BLAST-url]
 
 
 ### Installation
