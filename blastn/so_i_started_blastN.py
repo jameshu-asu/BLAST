@@ -3,6 +3,9 @@ import subprocess
 import pandas as pd
 import numpy as np
 
+#By James C Hu
+
+
 df = pd.read_csv('input.csv')
 
 seq_list = [i for i in df['Seq_ID']]
