@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 
+#By James C. Hu
 
 def blastn_adeno_out(infile):
     input_column_names = ['qseqid', 'sseqid', 'evalue', 'bitscore', 'pident', 'nident', 'qcovs', 'length', 'mismatch', 'qlen', 'slen']
